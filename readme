@@ -1,6 +1,6 @@
 
 
-# 🎬 AI Movie Recommender System
+# 🎬 AI Movie Recommenendation System
 
 This is a simple content-based movie recommender system built using Python and scikit-learn. It uses TF-IDF vectorization to find similar movies based on features such as genre, cast, keywords, and director.
 
