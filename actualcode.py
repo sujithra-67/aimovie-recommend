@@ -5,7 +5,7 @@ import difflib
 
 # Load a manageable subset of the dataset
 chunk_size = 1000  # Adjust based on memory constraints
-df_chunk = pd.read_csv("movies.csv", nrows=chunk_size)
+df_chunk = pd.read_csv("movies1.csv", nrows=chunk_size)
 
 # Basic preprocessing: clean and combine relevant features
 def clean_data(x):
